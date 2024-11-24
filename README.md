@@ -1,2 +1,2 @@
-# A2_Inserion_merge_sort_analysis
+# A2 - Inserion + merge sort analysis
 asdasd
